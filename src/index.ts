@@ -33,18 +33,29 @@ const addProfessorToTeam = (team: Team, professor: Lecturer) => {
   }
 }
 
-const array = [
+const array: Student[] = [
   {
-
+    id: "1",
+    name: "Diogo",
+    email: "aaaa@aa.aa",
+    dateOfBirth: "  ",
+    hobbies: []
   }
 ]
 
-const checkStudent = (id: string) => {
-
+const checkStudent = (lookID: string) => {
+  const found: Student | undefined = array.find((item) => {
+    return item.id === lookID
+  })
+  if(found && found !== undefined) {
+    console.log(found.name)
+  }
+  
 }
 
 addStudentToTeam(newFullTeam, newStudent)
 addProfessorToTeam(newFullTeam, newTeacher)
+checkStudent("1")
 
 // const rl = readLine.createInterface({
 //   input: process.stdin,

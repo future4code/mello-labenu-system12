@@ -7,7 +7,7 @@ export default class Student extends Member implements MemberInterface {
     name: string, 
     email: string,
     dateOfBirth: string,
-    protected hobbies: string[],
+    public hobbies: string[],
   ) {
     super(id, name, email, dateOfBirth)
   }
