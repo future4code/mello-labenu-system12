@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12",
+    "name": "Mello-na-night",
+    "startDate": "15/01/2020",
+    "endDate": "15/07/2020",
+    "lecturerList": [
+      {
+        "id": "1122",
+        "name": "Paulinha",
+        "email": "paulinha@labenu.com",
+        "dateOfBirth": "12/12/1993",
+        "skills": [
+          "Back-end",
+          "Css",
+          "React",
+          "Css",
+          "TypeScript"
+        ]
+      }
+    ],
+    "studentsList": [
+      {
+        "id": "1235",
+        "name": "Diogo",
+        "email": "diogo@hotmail.com",
+        "dateOfBirth": "13/06/1990",
+        "hobbies": [
+          "ler",
+          "escrever"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Mello",
+    "startDate": "15/01/2020",
+    "endDate": "15/07/2020",
+    "lecturerList": [
+      {
+        "id": "1111",
+        "name": "Caio",
+        "email": "caio@labenu.com",
+        "dateOfBirth": "12/12/1990",
+        "skills": [
+          "Back-end",
+          "Css",
+          "React"
+        ]
+      }
+    ],
+    "studentsList": [
+      {
+        "id": "1234",
+        "name": "Manoel",
+        "email": "mneto_004@hotmail.com",
+        "dateOfBirth": "13/06/1993",
+        "hobbies": [
+          "ler",
+          "escrever"
+        ]
+      }
+    ]
+  }
+]
