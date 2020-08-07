@@ -1,26 +1,30 @@
 [
-  {
-    "id": "1111",
-    "name": "Caio",
-    "email": "caio@labenu.com",
-    "dateOfBirth": "12/12/1990",
-    "skills": [
-      "Back-end",
-      "Css",
-      "React"
-    ]
-  },
-  {
-    "id": "1122",
-    "name": "Paulinha",
-    "email": "paulinha@labenu.com",
-    "dateOfBirth": "12/12/1993",
-    "skills": [
-      "Back-end",
-      "Css",
-      "React",
-      "Css",
-      "TypeScript"
-    ]
-  }
+	{
+		"id": "1111",
+		"name": "Caio",
+		"email": "caio@labenu.com",
+		"dateOfBirth": "12/12/1990",
+		"skills": ["Back-end", "Css", "React"]
+	},
+	{
+		"id": "1122",
+		"name": "Paulinha",
+		"email": "paulinha@labenu.com",
+		"dateOfBirth": "12/12/1993",
+		"skills": ["Back-end", "Css", "React", "Css", "TypeScript"]
+	},
+	{
+		"id": "2233",
+		"name": "Soter",
+		"email": "soter@labenu.com",
+		"dateOfBirth": "21/02/1995",
+		"skills": ["Back-end", "Css", "React"]
+	},
+	{
+		"id": "3311",
+		"name": "Amanda",
+		"email": "amanda@labenu.com",
+		"dateOfBirth": "04/08/1993",
+		"skills": ["Css", "React", "TypeScript"]
+	}
 ]
