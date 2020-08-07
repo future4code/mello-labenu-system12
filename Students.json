@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1234",
+    "name": "Manoel",
+    "email": "mneto_004@hotmail.com",
+    "dateOfBirth": "13/06/1993",
+    "hobbies": [
+      "ler",
+      "escrever"
+    ]
+  },
+  {
+    "id": "1235",
+    "name": "Diogo",
+    "email": "diogo@hotmail.com",
+    "dateOfBirth": "13/06/1990",
+    "hobbies": [
+      "ler",
+      "escrever"
+    ]
+  }
+]

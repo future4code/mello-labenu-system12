@@ -14,6 +14,7 @@ export class NightTeam extends Team implements TeamInterface{
     module: number | undefined,
   ){
     super(id, name, startDate, endDate, lecturerList, studentList, module)
+    this.name = name + '-na-night'
   }
   
 }
